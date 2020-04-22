@@ -13,6 +13,7 @@ Clone this repo and import into IntelliJ and run the tests. One of them should f
 4. On Intellij, click the File Menu -> New Project from existing sources -> Select Import project from external model and select Gradle
 5. Follow the on screen instructions.
 6. Find the file TriangleTest, right click on it to get the context menu and select Run Triangle Test. 
+(The test should fail)
 
 If you are facing an issue running this, please google :) 
 
